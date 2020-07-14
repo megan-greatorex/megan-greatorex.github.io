@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+header{
+    width: 100%;
+}
+body{
+    background-color:lavenderblush;
+}
+h1 {
+    font-family:' Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: purple
+}
+.aboutme{
+    border: 3px solid white;
+    position: relative;
+}
